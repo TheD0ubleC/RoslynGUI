@@ -1,5 +1,5 @@
 # 这是一个为Roslyn开发的程序 可以使用GUI快速操作Roslyn编译C#代码
-## Language: 简体中文 | 繁體中文 | English | 日本語
+## Language: [简体中文](https://github.com/TheD0ubleC/RoslynGUI/wiki/) | [繁體中文](https://github.com/TheD0ubleC/RoslynGUI/wiki/Home_tw) | [English](https://github.com/TheD0ubleC/RoslynGUI/wiki/Home_en) | [日本語](https://github.com/TheD0ubleC/RoslynGUI/wiki/Home_ja)
 
 # 界面
 ![image](https://github.com/TheD0ubleC/RoslynGUI/assets/143760576/49f392bd-4b75-45fe-8728-99dc0f32df13)
